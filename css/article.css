@@ -1,0 +1,35 @@
+#mainbody{
+    width: 1000px;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    border: 2px solid #ccc;
+    min-height: 1000px;
+}
+
+#mainbody h1{
+    font-size: 40px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+#button {
+    position: absolute;
+    right: 30px;
+    top: 10px;
+    border: 2px solid #ccc;
+    font-size: 20px;
+}
+
+#button div {
+    float: left;
+    width: 75px;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+}
+
+#life {
+    border-right: 1px solid rgb(145, 150, 147);
+    
+}
